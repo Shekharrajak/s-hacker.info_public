@@ -1,0 +1,38 @@
+1.Google nexux effect
+2.menu bar dropdown
+3.mobile resposnsive
+4. contact us remove
+5. add in about page more contents
+6 add fork icon on github link
+7 .follow icon github
+8. coloring social link.
+9.
+
+---
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# git branch
+* master
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# git remote -vorigin	https://github.com/Shekharrajak/Site_backup.git (fetch)
+origin	https://github.com/Shekharrajak/Site_backup.git (push)
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# git checkout -b gh-pages_before_blog
+Switched to a new branch 'gh-pages_before_blog'
+root@HackerDude:~/Documents/MySite/public_html_backup_before_blog# 
+
+
+----------
+last edit:
+4 apr 16 : adding menu index.html ,work.html, menu_nav.css added old css,font updated
+24 apr 16 : blog added gsoc ->gsoc_preparation,application
+14 may 2016
+1. designing speeling mistake - index.html
+2. Resume updated link 
+2.#10764: TODO part of #10733 Fixes XFAIL test-cases and #7914  this line have wrong links fixed
+
+
+next goal:
+1. blog addition
+
+3. check all the links of contribution page
+4.blog add on education system in india, my journey to NIT Warangal
+
+chages added nut not hosted 
+
