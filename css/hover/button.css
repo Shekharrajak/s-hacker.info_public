@@ -114,7 +114,6 @@
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
-  opacity: 0.5;
   color: white;
 }
 .hvr-bob:hover, .hvr-bob:focus, .hvr-bob:active {
