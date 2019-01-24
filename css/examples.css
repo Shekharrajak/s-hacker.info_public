@@ -160,6 +160,8 @@ p{
 #section1 img{
 	/*margin: 20px 0;*/
 	opacity: 0.7;
+	 /* HOVER OFF */
+   -webkit-transition: opacity 2s;
 }
 
 /* Section 2
