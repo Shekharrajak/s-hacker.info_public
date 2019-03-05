@@ -34,7 +34,7 @@ div.header {
   text-align: center;
   background: #333;
   color: ghostwhite;
-  padding: 2.3rem 1rem 2.3rem 1rem;
+  padding: 2.3rem 1rem 1rem 1rem;
   position: relative;
 }
 div.header:after {
@@ -81,6 +81,10 @@ div.header h2 {
 
 div.header a:hover {
   color: white;
+}
+
+div.header .backButton {
+  text-align: left;
 }
 
 div.item {
@@ -207,4 +211,19 @@ svg {
   border: 3px solid white;
   border-radius: 50%;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
 }
