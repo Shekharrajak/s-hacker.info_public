@@ -78,6 +78,11 @@ div.header h2 {
   max-width: 30rem;
   margin: auto;
 }
+
+div.header a:hover {
+  color: white;
+}
+
 div.item {
   display: flex;
   flex: auto;
